@@ -1,4 +1,4 @@
-## ML-Utility-Function :rocket:
+## Utility functions for ML :rocket:
 Repo of utility ML functions for some quick-dirty analysis
 
 ## calc_mi(X,y)
